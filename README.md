@@ -1,3 +1,2 @@
-# Chapter 1
- OpenCV C++ Course
+# OpenCV C++ Course - Chapter 1
  Contact (Discord) : ntatl#5817
